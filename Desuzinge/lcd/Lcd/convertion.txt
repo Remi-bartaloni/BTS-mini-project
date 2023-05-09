@@ -1,0 +1,390 @@
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 15
+	Hexadecimal: 0F
+	Binaire: 00001111
+
+Utilisateur: BARTALONI
+	Decimal: 15
+	Hexadecimal: 0F
+	Binaire: 00001111
+
+Utilisateur: BARTALONI
+	Decimal: 15
+	Hexadecimal: 0F
+	Binaire: 00001111
+
+Utilisateur: BARTALONI
+	Decimal: 15
+	Hexadecimal: 0F
+	Binaire: 00001111
+
+Utilisateur: BARTALONI
+	Decimal: 16
+	Hexadecimal: 10
+	Binaire: 00010000
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 46
+	Hexadecimal: 2E
+	Binaire: 00101110
+
+Utilisateur: BARTALONI
+	Decimal: 46
+	Hexadecimal: 2E
+	Binaire: 00101110
+
+Utilisateur: BARTALONI
+	Decimal: 75
+	Hexadecimal: 4B
+	Binaire: 01001011
+
+Utilisateur: BARTALONI
+	Decimal: 16
+	Hexadecimal: 10
+	Binaire: 00010000
+
+Utilisateur: BARTALONI
+	Decimal: 46
+	Hexadecimal: 2E
+	Binaire: 00101110
+
+Utilisateur: BARTALONI
+	Decimal: 75
+	Hexadecimal: 4B
+	Binaire: 01001011
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 54
+	Hexadecimal: 36
+	Binaire: 00110110
+
+Utilisateur: BARTALONI
+	Decimal: 32
+	Hexadecimal: 20
+	Binaire: 00100000
+
+Utilisateur: BARTALONI
+	Decimal: 75
+	Hexadecimal: 4B
+	Binaire: 01001011
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 24
+	Hexadecimal: 18
+	Binaire: 00011000
+
+Utilisateur: BARTALONI
+	Decimal: 75
+	Hexadecimal: 4B
+	Binaire: 01001011
+
+Utilisateur: BARTALONI
+	Decimal: 76
+	Hexadecimal: 4C
+	Binaire: 01001100
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 75
+	Hexadecimal: 4B
+	Binaire: 01001011
+
+Utilisateur: BARTALONI
+	Decimal: 64
+	Hexadecimal: 40
+	Binaire: 01000000
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 76
+	Hexadecimal: 4C
+	Binaire: 01001100
+
+Utilisateur: BARTALONI
+	Decimal: 49
+	Hexadecimal: 31
+	Binaire: 00110001
+
+Utilisateur: BARTALONI
+	Decimal: 5
+	Hexadecimal: 05
+	Binaire: 00000101
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 75
+	Hexadecimal: 4B
+	Binaire: 01001011
+
+Utilisateur: coco
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: CROS
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: Nico
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: Nico
+	Decimal: 1
+	Hexadecimal: 01
+	Binaire: 00000001
+
+Utilisateur: Nico
+	Decimal: 2
+	Hexadecimal: 02
+	Binaire: 00000010
+
+Utilisateur: Nico
+	Decimal: 3
+	Hexadecimal: 03
+	Binaire: 00000011
+
+Utilisateur: Nico
+	Decimal: 4
+	Hexadecimal: 04
+	Binaire: 00000100
+
+Utilisateur: Nico
+	Decimal: 5
+	Hexadecimal: 05
+	Binaire: 00000101
+
+Utilisateur: Nico
+	Decimal: 6
+	Hexadecimal: 06
+	Binaire: 00000110
+
+Utilisateur: Nico
+	Decimal: 255
+	Hexadecimal: FF
+	Binaire: 11111111
+
+Utilisateur: Nico
+	Decimal: 46
+	Hexadecimal: 2E
+	Binaire: 00101110
+
+Utilisateur: Nico
+	Decimal: 75
+	Hexadecimal: 4B
+	Binaire: 01001011
+
+Utilisateur: Nico
+	Decimal: 25
+	Hexadecimal: 19
+	Binaire: 00011001
+
+Utilisateur: Nico
+	Decimal: 1
+	Hexadecimal: 01
+	Binaire: 00000001
+
+Utilisateur: Nico
+	Decimal: 255
+	Hexadecimal: FF
+	Binaire: 11111111
+
+Utilisateur: Nico
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: Nico
+	Decimal: 75
+	Hexadecimal: 4B
+	Binaire: 01001011
+
+Utilisateur: Nico
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: Nico
+	Decimal: 46
+	Hexadecimal: 2E
+	Binaire: 00101110
+
+Utilisateur: Nico
+	Decimal: 7
+	Hexadecimal: 07
+	Binaire: 00000111
+
+Utilisateur: Nico
+	Decimal: 49
+	Hexadecimal: 31
+	Binaire: 00110001
+
+Utilisateur: Nico
+	Decimal: 85
+	Hexadecimal: 55
+	Binaire: 01010101
+
+Utilisateur: Nico
+	Decimal: 95
+	Hexadecimal: 5F
+	Binaire: 01011111
+
+Utilisateur: Nico
+	Decimal: 46
+	Hexadecimal: 2E
+	Binaire: 00101110
+
+Utilisateur: Nico
+	Decimal: 52
+	Hexadecimal: 34
+	Binaire: 00110100
+
+Utilisateur: Nico
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: Nico
+	Decimal: 75
+	Hexadecimal: 4B
+	Binaire: 01001011
+
+Utilisateur: Nico
+	Decimal: 74
+	Hexadecimal: 4A
+	Binaire: 01001010
+
+Utilisateur: Nico
+	Decimal: 46
+	Hexadecimal: 2E
+	Binaire: 00101110
+
+Utilisateur: Nico
+	Decimal: 76
+	Hexadecimal: 4C
+	Binaire: 01001100
+
+Utilisateur: Nico
+	Decimal: 16
+	Hexadecimal: 10
+	Binaire: 00010000
+
+Utilisateur: Nico
+	Decimal: 79
+	Hexadecimal: 4F
+	Binaire: 01001111
+
+Utilisateur: Nico
+	Decimal: 41
+	Hexadecimal: 29
+	Binaire: 00101001
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: 0
+	Decimal: -107BFE01111000
+	Hexadecimal: BFE01111000
+	Binaire: 01111000
+
+Utilisateur: 0
+	Decimal: -107BFA01010000
+	Hexadecimal: BFA01010000
+	Binaire: 01010000
+
+Utilisateur: 0
+	Decimal: -107BFB01110000
+	Hexadecimal: BFB01110000
+	Binaire: 01110000
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: 0
+	Decimal: -107BFD10001000
+	Hexadecimal: BFD10001000
+	Binaire: 10001000
+
+Utilisateur: 0
+	Decimal: -107BFD01011000
+	Hexadecimal: BFD01011000
+	Binaire: 01011000
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
+Utilisateur: BARTALONI
+	Decimal: 45
+	Hexadecimal: 2D
+	Binaire: 00101101
+
